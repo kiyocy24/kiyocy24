@@ -1,8 +1,8 @@
 ### Hi, I'm kiyocy24 👋
 
 <p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=kiyocy24&show_icons=true" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=kiyocy24&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiyocy24&show_icons=true" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kiyocy24&layout=compact&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
 
